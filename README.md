@@ -1,2 +1,2 @@
 # LavaLampDB
-A simple databse engine in C with custom SQL 
+A simple database engine in C with custom SQL 
